@@ -1,0 +1,775 @@
+ * Serving Flask app 'app'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 324-591-961
+ * Detected change in '/Users/minhvu/repoPull/call_pull_and_transfer.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 324-591-961
+ * Detected change in '/Users/minhvu/repoPull/call_pull_and_transfer.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 324-591-961
+ * Detected change in '/Users/minhvu/repoPull/call_pull_and_transfer.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 324-591-961
+ * Serving Flask app 'app'
+ * Debug mode: on
+Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+On macOS, try disabling the 'AirPlay Receiver' service from System Preferences -> General -> AirDrop & Handoff.
+/Users/minhvu/repoPull/call_pull_and_transfer.py: line 1: import: command not found
+/Users/minhvu/repoPull/call_pull_and_transfer.py: line 3: syntax error near unexpected token `('
+/Users/minhvu/repoPull/call_pull_and_transfer.py: line 3: `def call_route():'
+From https://github.com/qtris123/Generative-AI-and-LLM-in-Healthcare-Operations
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+fatal: repository 'repo_2' does not exist
+fatal: repository 'repo_3' does not exist
+fatal: repository 'repo123' does not exist
+fatal: repository 'abc' does not exist
+fatal: repository 'qwe' does not exist
+fatal: repository 'boilerup' does not exist
+fatal: repository 'mikii' does not exist
+fatal: repository 'trio123' does not exist
+fatal: repository 'repo10' does not exist
+127.0.0.1 - - [25/Sep/2024 13:36:40] "GET /pull_and_transfer HTTP/1.1" 200 -
+127.0.0.1 - - [25/Sep/2024 13:36:40] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+/Users/minhvu/repoPull/call_pull_and_transfer.py: line 1: import: command not found
+/Users/minhvu/repoPull/call_pull_and_transfer.py: line 3: syntax error near unexpected token `('
+/Users/minhvu/repoPull/call_pull_and_transfer.py: line 3: `def call_route():'
+/Users/minhvu/repoPull/call_pull_and_transfer.py: line 1: import: command not found
+/Users/minhvu/repoPull/call_pull_and_transfer.py: line 3: syntax error near unexpected token `('
+/Users/minhvu/repoPull/call_pull_and_transfer.py: line 3: `def call_route():'
+/Users/minhvu/repoPull/call_pull_and_transfer.py: line 1: import: command not found
+/Users/minhvu/repoPull/call_pull_and_transfer.py: line 3: syntax error near unexpected token `('
+/Users/minhvu/repoPull/call_pull_and_transfer.py: line 3: `def call_route():'
+/Users/minhvu/repoPull/call_pull_and_transfer.py: line 1: import: command not found
+/Users/minhvu/repoPull/call_pull_and_transfer.py: line 3: syntax error near unexpected token `('
+/Users/minhvu/repoPull/call_pull_and_transfer.py: line 3: `def call_route():'
+/Users/minhvu/repoPull/call_pull_and_transfer.py: line 1: import: command not found
+/Users/minhvu/repoPull/call_pull_and_transfer.py: line 3: syntax error near unexpected token `('
+/Users/minhvu/repoPull/call_pull_and_transfer.py: line 3: `def call_route():'
+/Users/minhvu/repoPull/call_pull_and_transfer.py: line 1: import: command not found
+/Users/minhvu/repoPull/call_pull_and_transfer.py: line 3: syntax error near unexpected token `('
+/Users/minhvu/repoPull/call_pull_and_transfer.py: line 3: `def call_route():'
+From https://github.com/qtris123/Generative-AI-and-LLM-in-Healthcare-Operations
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+fatal: repository 'repo_2' does not exist
+fatal: repository 'repo_3' does not exist
+fatal: repository 'repo123' does not exist
+fatal: repository 'abc' does not exist
+fatal: repository 'qwe' does not exist
+fatal: repository 'boilerup' does not exist
+fatal: repository 'mikii' does not exist
+fatal: repository 'trio123' does not exist
+fatal: repository 'repo10' does not exist
+127.0.0.1 - - [25/Sep/2024 13:42:11] "GET /pull_and_transfer HTTP/1.1" 200 -
+127.0.0.1 - - [25/Sep/2024 13:42:11] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 204 -
+/Users/minhvu/repoPull/call_pull_and_transfer.py: line 1: import: command not found
+/Users/minhvu/repoPull/call_pull_and_transfer.py: line 3: syntax error near unexpected token `('
+/Users/minhvu/repoPull/call_pull_and_transfer.py: line 3: `def call_route():'
+/Users/minhvu/repoPull/call_pull_and_transfer.py: line 1: import: command not found
+/Users/minhvu/repoPull/call_pull_and_transfer.py: line 3: syntax error near unexpected token `('
+/Users/minhvu/repoPull/call_pull_and_transfer.py: line 3: `def call_route():'
+/Users/minhvu/repoPull/call_pull_and_transfer.py: line 1: import: command not found
+/Users/minhvu/repoPull/call_pull_and_transfer.py: line 3: syntax error near unexpected token `('
+/Users/minhvu/repoPull/call_pull_and_transfer.py: line 3: `def call_route():'
+/Users/minhvu/repoPull/call_pull_and_transfer.py: line 1: import: command not found
+/Users/minhvu/repoPull/call_pull_and_transfer.py: line 3: syntax error near unexpected token `('
+/Users/minhvu/repoPull/call_pull_and_transfer.py: line 3: `def call_route():'
+ * Detected change in '/Users/minhvu/repoPull/call_pull_and_transfer.py', reloading
+Processing a123:
+Repository URL: https://github.com/qtris123/Generative-AI-and-LLM-in-Healthcare-Operations
+Local Path: /Users/minhvu/repoPull/teamCode/a123
+Fetched tags for /Users/minhvu/repoPull/teamCode/a123
+Pulling latest code for a123...
+Processing team2:
+Repository URL: repo_2
+Local Path: /Users/minhvu/repoPull/teamCode/team2
+Fetched tags for /Users/minhvu/repoPull/teamCode/team2
+Remote URL has changed for team2. Cleaning up and re-cloning...
+Cloning new repository for team2 into /Users/minhvu/repoPull/teamCode/team2...
+Error processing team2: None
+Processing team3:
+Repository URL: repo_3
+Local Path: /Users/minhvu/repoPull/teamCode/team3
+Fetched tags for /Users/minhvu/repoPull/teamCode/team3
+Remote URL has changed for team3. Cleaning up and re-cloning...
+Cloning new repository for team3 into /Users/minhvu/repoPull/teamCode/team3...
+Error processing team3: None
+Processing TeamA:
+Repository URL: git@github.com:vuleminh2002/teamA.git
+Local Path: /Users/minhvu/repoPull/teamCode/TeamA
+Fetched tags for /Users/minhvu/repoPull/teamCode/TeamA
+Repository TeamA has tags. Skipping pull/clone operation.
+Processing user10:
+Repository URL: repo123
+Local Path: /Users/minhvu/repoPull/teamCode/user10
+Fetched tags for /Users/minhvu/repoPull/teamCode/user10
+Remote URL has changed for user10. Cleaning up and re-cloning...
+Cloning new repository for user10 into /Users/minhvu/repoPull/teamCode/user10...
+Error processing user10: None
+Processing abc:
+Repository URL: abc
+Local Path: /Users/minhvu/repoPull/teamCode/abc
+Fetched tags for /Users/minhvu/repoPull/teamCode/abc
+Remote URL has changed for abc. Cleaning up and re-cloning...
+Cloning new repository for abc into /Users/minhvu/repoPull/teamCode/abc...
+Error processing abc: None
+Processing qwe:
+Repository URL: qwe
+Local Path: /Users/minhvu/repoPull/teamCode/qwe
+Fetched tags for /Users/minhvu/repoPull/teamCode/qwe
+Remote URL has changed for qwe. Cleaning up and re-cloning...
+Cloning new repository for qwe into /Users/minhvu/repoPull/teamCode/qwe...
+Error processing qwe: None
+Processing mung chiang:
+Repository URL: boilerup
+Local Path: /Users/minhvu/repoPull/teamCode/mung chiang
+Fetched tags for /Users/minhvu/repoPull/teamCode/mung chiang
+Remote URL has changed for mung chiang. Cleaning up and re-cloning...
+Cloning new repository for mung chiang into /Users/minhvu/repoPull/teamCode/mung chiang...
+Error processing mung chiang: None
+Processing saigon:
+Repository URL: 123
+Local Path: /Users/minhvu/repoPull/teamCode/saigon
+Fetched tags for /Users/minhvu/repoPull/teamCode/saigon
+Remote URL has changed for saigon. Cleaning up and re-cloning...
+Cloning new repository for saigon into /Users/minhvu/repoPull/teamCode/saigon...
+Unexpected error: expected str, bytes or os.PathLike object, not int
+Processing miki:
+Repository URL: mikii
+Local Path: /Users/minhvu/repoPull/teamCode/miki
+Fetched tags for /Users/minhvu/repoPull/teamCode/miki
+Remote URL has changed for miki. Cleaning up and re-cloning...
+Cloning new repository for miki into /Users/minhvu/repoPull/teamCode/miki...
+Error processing miki: None
+Processing trio:
+Repository URL: trio123
+Local Path: /Users/minhvu/repoPull/teamCode/trio
+Fetched tags for /Users/minhvu/repoPull/teamCode/trio
+Remote URL has changed for trio. Cleaning up and re-cloning...
+Cloning new repository for trio into /Users/minhvu/repoPull/teamCode/trio...
+Error processing trio: None
+Processing team10:
+Repository URL: repo10
+Local Path: /Users/minhvu/repoPull/teamCode/team10
+Fetched tags for /Users/minhvu/repoPull/teamCode/team10
+Remote URL has changed for team10. Cleaning up and re-cloning...
+Cloning new repository for team10 into /Users/minhvu/repoPull/teamCode/team10...
+Error processing team10: None
+Processing a123:
+Repository URL: https://github.com/qtris123/Generative-AI-and-LLM-in-Healthcare-Operations
+Local Path: /Users/minhvu/repoPull/teamCode/a123
+Fetched tags for /Users/minhvu/repoPull/teamCode/a123
+Pulling latest code for a123...
+Processing team2:
+Repository URL: repo_2
+Local Path: /Users/minhvu/repoPull/teamCode/team2
+Fetched tags for /Users/minhvu/repoPull/teamCode/team2
+Remote URL has changed for team2. Cleaning up and re-cloning...
+Cloning new repository for team2 into /Users/minhvu/repoPull/teamCode/team2...
+Error processing team2: None
+Processing team3:
+Repository URL: repo_3
+Local Path: /Users/minhvu/repoPull/teamCode/team3
+Fetched tags for /Users/minhvu/repoPull/teamCode/team3
+Remote URL has changed for team3. Cleaning up and re-cloning...
+Cloning new repository for team3 into /Users/minhvu/repoPull/teamCode/team3...
+Error processing team3: None
+Processing TeamA:
+Repository URL: git@github.com:vuleminh2002/teamA.git
+Local Path: /Users/minhvu/repoPull/teamCode/TeamA
+Fetched tags for /Users/minhvu/repoPull/teamCode/TeamA
+Repository TeamA has tags. Skipping pull/clone operation.
+Processing user10:
+Repository URL: repo123
+Local Path: /Users/minhvu/repoPull/teamCode/user10
+Fetched tags for /Users/minhvu/repoPull/teamCode/user10
+Remote URL has changed for user10. Cleaning up and re-cloning...
+Cloning new repository for user10 into /Users/minhvu/repoPull/teamCode/user10...
+Error processing user10: None
+Processing abc:
+Repository URL: abc
+Local Path: /Users/minhvu/repoPull/teamCode/abc
+Fetched tags for /Users/minhvu/repoPull/teamCode/abc
+Remote URL has changed for abc. Cleaning up and re-cloning...
+Cloning new repository for abc into /Users/minhvu/repoPull/teamCode/abc...
+Error processing abc: None
+Processing qwe:
+Repository URL: qwe
+Local Path: /Users/minhvu/repoPull/teamCode/qwe
+Fetched tags for /Users/minhvu/repoPull/teamCode/qwe
+Remote URL has changed for qwe. Cleaning up and re-cloning...
+Cloning new repository for qwe into /Users/minhvu/repoPull/teamCode/qwe...
+Error processing qwe: None
+Processing mung chiang:
+Repository URL: boilerup
+Local Path: /Users/minhvu/repoPull/teamCode/mung chiang
+Fetched tags for /Users/minhvu/repoPull/teamCode/mung chiang
+Remote URL has changed for mung chiang. Cleaning up and re-cloning...
+Cloning new repository for mung chiang into /Users/minhvu/repoPull/teamCode/mung chiang...
+Error processing mung chiang: None
+Processing saigon:
+Repository URL: 123
+Local Path: /Users/minhvu/repoPull/teamCode/saigon
+Fetched tags for /Users/minhvu/repoPull/teamCode/saigon
+Remote URL has changed for saigon. Cleaning up and re-cloning...
+Cloning new repository for saigon into /Users/minhvu/repoPull/teamCode/saigon...
+Unexpected error: expected str, bytes or os.PathLike object, not int
+Processing miki:
+Repository URL: mikii
+Local Path: /Users/minhvu/repoPull/teamCode/miki
+Fetched tags for /Users/minhvu/repoPull/teamCode/miki
+Remote URL has changed for miki. Cleaning up and re-cloning...
+Cloning new repository for miki into /Users/minhvu/repoPull/teamCode/miki...
+Error processing miki: None
+Processing trio:
+Repository URL: trio123
+Local Path: /Users/minhvu/repoPull/teamCode/trio
+Fetched tags for /Users/minhvu/repoPull/teamCode/trio
+Remote URL has changed for trio. Cleaning up and re-cloning...
+Cloning new repository for trio into /Users/minhvu/repoPull/teamCode/trio...
+Error processing trio: None
+Processing team10:
+Repository URL: repo10
+Local Path: /Users/minhvu/repoPull/teamCode/team10
+Fetched tags for /Users/minhvu/repoPull/teamCode/team10
+Remote URL has changed for team10. Cleaning up and re-cloning...
+Cloning new repository for team10 into /Users/minhvu/repoPull/teamCode/team10...
+Error processing team10: None
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 324-591-961
+Traceback (most recent call last):
+  File "/Users/minhvu/repoPull/call_pull_and_transfer.py", line 2, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+From https://github.com/qtris123/Generative-AI-and-LLM-in-Healthcare-Operations
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+fatal: repository 'repo_2' does not exist
+fatal: repository 'repo_3' does not exist
+fatal: repository 'repo123' does not exist
+fatal: repository 'abc' does not exist
+fatal: repository 'qwe' does not exist
+fatal: repository 'boilerup' does not exist
+fatal: repository 'mikii' does not exist
+fatal: repository 'trio123' does not exist
+fatal: repository 'repo10' does not exist
+127.0.0.1 - - [25/Sep/2024 13:48:04] "GET /pull_and_transfer HTTP/1.1" 200 -
+Response: 200 - [
+  {
+    "a123": "Success"
+  },
+  {
+    "team2": "Error: None"
+  },
+  {
+    "team3": "Error: None"
+  },
+  {
+    "TeamA": "Skipped due to the presence of tags"
+  },
+  {
+    "user10": "Error: None"
+  },
+  {
+    "abc": "Error: None"
+  },
+  {
+    "qwe": "Error: None"
+  },
+  {
+    "mung chiang": "Error: None"
+  },
+  {
+    "saigon": "Unexpected error: expected str, bytes or os.PathLike object, not int"
+  },
+  {
+    "miki": "Error: None"
+  },
+  {
+    "trio": "Error: None"
+  },
+  {
+    "team10": "Error: None"
+  }
+]
+
+From https://github.com/qtris123/Generative-AI-and-LLM-in-Healthcare-Operations
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+fatal: repository 'repo_2' does not exist
+fatal: repository 'repo_3' does not exist
+fatal: repository 'repo123' does not exist
+fatal: repository 'abc' does not exist
+fatal: repository 'qwe' does not exist
+fatal: repository 'boilerup' does not exist
+fatal: repository 'mikii' does not exist
+fatal: repository 'trio123' does not exist
+fatal: repository 'repo10' does not exist
+127.0.0.1 - - [25/Sep/2024 13:49:03] "GET /pull_and_transfer HTTP/1.1" 200 -
+Response: 200 - [
+  {
+    "a123": "Success"
+  },
+  {
+    "team2": "Error: None"
+  },
+  {
+    "team3": "Error: None"
+  },
+  {
+    "TeamA": "Skipped due to the presence of tags"
+  },
+  {
+    "user10": "Error: None"
+  },
+  {
+    "abc": "Error: None"
+  },
+  {
+    "qwe": "Error: None"
+  },
+  {
+    "mung chiang": "Error: None"
+  },
+  {
+    "saigon": "Unexpected error: expected str, bytes or os.PathLike object, not int"
+  },
+  {
+    "miki": "Error: None"
+  },
+  {
+    "trio": "Error: None"
+  },
+  {
+    "team10": "Error: None"
+  }
+]
+
+From https://github.com/qtris123/Generative-AI-and-LLM-in-Healthcare-Operations
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+fatal: repository 'repo_2' does not exist
+Processing a123:
+Repository URL: https://github.com/qtris123/Generative-AI-and-LLM-in-Healthcare-Operations
+Local Path: /Users/minhvu/repoPull/teamCode/a123
+Fetched tags for /Users/minhvu/repoPull/teamCode/a123
+Pulling latest code for a123...
+Processing team2:
+Repository URL: repo_2
+Local Path: /Users/minhvu/repoPull/teamCode/team2
+Fetched tags for /Users/minhvu/repoPull/teamCode/team2
+Remote URL has changed for team2. Cleaning up and re-cloning...
+Cloning new repository for team2 into /Users/minhvu/repoPull/teamCode/team2...
+Error processing team2: None
+Processing team3:
+Repository URL: repo_3
+Local Path: /Users/minhvu/repoPull/teamCode/team3
+Fetched tags for /Users/minhvu/repoPull/teamCode/team3
+Remote URL has changed for team3. Cleaning up and re-cloning...
+Cloning new repository for team3 into /Users/minhvu/repoPull/teamCode/team3...
+Error processing team3: None
+Processing TeamA:
+Repository URL: git@github.com:vuleminh2002/teamA.git
+Local Path: /Users/minhvu/repoPull/teamCode/TeamA
+Fetched tags for /Users/minhvu/repoPull/teamCode/TeamA
+Repository TeamA has tags. Skipping pull/clone operation.
+Processing user10:
+Repository URL: repo123
+Local Path: /Users/minhvu/repoPull/teamCode/user10
+Fetched tags for /Users/minhvu/repoPull/teamCode/user10
+Remote URL has changed for user10. Cleaning up and re-cloning...
+Cloning new repository for user10 into /Users/minhvu/repoPull/teamCode/user10...
+Error processing user10: None
+Processing abc:
+Repository URL: abc
+Local Path: /Users/minhvu/repoPull/teamCode/abc
+Fetched tags for /Users/minhvu/repoPull/teamCode/abc
+Remote URL has changed for abc. Cleaning up and re-cloning...
+Cloning new repository for abc into /Users/minhvu/repoPull/teamCode/abc...
+Error processing abc: None
+Processing qwe:
+Repository URL: qwe
+Local Path: /Users/minhvu/repoPull/teamCode/qwe
+Fetched tags for /Users/minhvu/repoPull/teamCode/qwe
+Remote URL has changed for qwe. Cleaning up and re-cloning...
+Cloning new repository for qwe into /Users/minhvu/repoPull/teamCode/qwe...
+Error processing qwe: None
+Processing mung chiang:
+Repository URL: boilerup
+Local Path: /Users/minhvu/repoPull/teamCode/mung chiang
+Fetched tags for /Users/minhvu/repoPull/teamCode/mung chiang
+Remote URL has changed for mung chiang. Cleaning up and re-cloning...
+Cloning new repository for mung chiang into /Users/minhvu/repoPull/teamCode/mung chiang...
+Error processing mung chiang: None
+Processing saigon:
+Repository URL: 123
+Local Path: /Users/minhvu/repoPull/teamCode/saigon
+Fetched tags for /Users/minhvu/repoPull/teamCode/saigon
+Remote URL has changed for saigon. Cleaning up and re-cloning...
+Cloning new repository for saigon into /Users/minhvu/repoPull/teamCode/saigon...
+Unexpected error: expected str, bytes or os.PathLike object, not int
+Processing miki:
+Repository URL: mikii
+Local Path: /Users/minhvu/repoPull/teamCode/miki
+Fetched tags for /Users/minhvu/repoPull/teamCode/miki
+Remote URL has changed for miki. Cleaning up and re-cloning...
+Cloning new repository for miki into /Users/minhvu/repoPull/teamCode/miki...
+Error processing miki: None
+Processing trio:
+Repository URL: trio123
+Local Path: /Users/minhvu/repoPull/teamCode/trio
+Fetched tags for /Users/minhvu/repoPull/teamCode/trio
+Remote URL has changed for trio. Cleaning up and re-cloning...
+Cloning new repository for trio into /Users/minhvu/repoPull/teamCode/trio...
+Error processing trio: None
+Processing team10:
+Repository URL: repo10
+Local Path: /Users/minhvu/repoPull/teamCode/team10
+Fetched tags for /Users/minhvu/repoPull/teamCode/team10
+Remote URL has changed for team10. Cleaning up and re-cloning...
+Cloning new repository for team10 into /Users/minhvu/repoPull/teamCode/team10...
+Error processing team10: None
+Processing a123:
+Repository URL: https://github.com/qtris123/Generative-AI-and-LLM-in-Healthcare-Operations
+Local Path: /Users/minhvu/repoPull/teamCode/a123
+Fetched tags for /Users/minhvu/repoPull/teamCode/a123
+Pulling latest code for a123...
+Processing team2:
+Repository URL: repo_2
+Local Path: /Users/minhvu/repoPull/teamCode/team2
+Fetched tags for /Users/minhvu/repoPull/teamCode/team2
+Remote URL has changed for team2. Cleaning up and re-cloning...
+Cloning new repository for team2 into /Users/minhvu/repoPull/teamCode/team2...
+Error processing team2: None
+Processing team3:
+Repository URL: repo_3
+Local Path: /Users/minhvu/repoPull/teamCode/team3
+Fetched tags for /Users/minhvu/repoPull/teamCode/team3
+Remote URL has changed for team3. Cleaning up and re-cloning...
+Cloning new repository for team3 into /Users/minhvu/repoPull/teamCode/team3...
+Error processing team3: None
+Processing TeamA:
+Repository URL: git@github.com:vuleminh2002/teamA.git
+Local Path: /Users/minhvu/repoPull/teamCode/TeamA
+Fetched tags for /Users/minhvu/repoPull/teamCode/TeamA
+Repository TeamA has tags. Skipping pull/clone operation.
+Processing user10:
+Repository URL: repo123
+Local Path: /Users/minhvu/repoPull/teamCode/user10
+Fetched tags for /Users/minhvu/repoPull/teamCode/user10
+Remote URL has changed for user10. Cleaning up and re-cloning...
+Cloning new repository for user10 into /Users/minhvu/repoPull/teamCode/user10...
+Error processing user10: None
+Processing abc:
+Repository URL: abc
+Local Path: /Users/minhvu/repoPull/teamCode/abc
+Fetched tags for /Users/minhvu/repoPull/teamCode/abc
+Remote URL has changed for abc. Cleaning up and re-cloning...
+Cloning new repository for abc into /Users/minhvu/repoPull/teamCode/abc...
+Error processing abc: None
+Processing qwe:
+Repository URL: qwe
+Local Path: /Users/minhvu/repoPull/teamCode/qwe
+Fetched tags for /Users/minhvu/repoPull/teamCode/qwe
+Remote URL has changed for qwe. Cleaning up and re-cloning...
+Cloning new repository for qwe into /Users/minhvu/repoPull/teamCode/qwe...
+Error processing qwe: None
+Processing mung chiang:
+Repository URL: boilerup
+Local Path: /Users/minhvu/repoPull/teamCode/mung chiang
+Fetched tags for /Users/minhvu/repoPull/teamCode/mung chiang
+Remote URL has changed for mung chiang. Cleaning up and re-cloning...
+Cloning new repository for mung chiang into /Users/minhvu/repoPull/teamCode/mung chiang...
+Error processing mung chiang: None
+Processing saigon:
+Repository URL: 123
+Local Path: /Users/minhvu/repoPull/teamCode/saigon
+Fetched tags for /Users/minhvu/repoPull/teamCode/saigon
+Remote URL has changed for saigon. Cleaning up and re-cloning...
+Cloning new repository for saigon into /Users/minhvu/repoPull/teamCode/saigon...
+Unexpected error: expected str, bytes or os.PathLike object, not int
+Processing miki:
+Repository URL: mikii
+Local Path: /Users/minhvu/repoPull/teamCode/miki
+Fetched tags for /Users/minhvu/repoPull/teamCode/miki
+Remote URL has changed for miki. Cleaning up and re-cloning...
+Cloning new repository for miki into /Users/minhvu/repoPull/teamCode/miki...
+Error processing miki: None
+Processing trio:
+Repository URL: trio123
+Local Path: /Users/minhvu/repoPull/teamCode/trio
+Fetched tags for /Users/minhvu/repoPull/teamCode/trio
+Remote URL has changed for trio. Cleaning up and re-cloning...
+Cloning new repository for trio into /Users/minhvu/repoPull/teamCode/trio...
+Error processing trio: None
+Processing team10:
+Repository URL: repo10
+Local Path: /Users/minhvu/repoPull/teamCode/team10
+Fetched tags for /Users/minhvu/repoPull/teamCode/team10
+Remote URL has changed for team10. Cleaning up and re-cloning...
+Cloning new repository for team10 into /Users/minhvu/repoPull/teamCode/team10...
+Error processing team10: None
+Processing a123:
+Repository URL: https://github.com/qtris123/Generative-AI-and-LLM-in-Healthcare-Operations
+Local Path: /Users/minhvu/repoPull/teamCode/a123
+Fetched tags for /Users/minhvu/repoPull/teamCode/a123
+Pulling latest code for a123...
+Processing team2:
+Repository URL: repo_2
+Local Path: /Users/minhvu/repoPull/teamCode/team2
+Fetched tags for /Users/minhvu/repoPull/teamCode/team2
+Remote URL has changed for team2. Cleaning up and re-cloning...
+Cloning new repository for team2 into /Users/minhvu/repoPull/teamCode/team2...
+Error processing team2: None
+Processing team3:
+Repository URL: repo_3
+Local Path: /Users/minhvu/repoPull/teamCode/team3
+Fetched tags for /Users/minhvu/repoPull/teamCode/team3
+Remote URL has changed for team3. Cleaning up and re-cloning...fatal: repository 'repo_3' does not exist
+fatal: repository 'repo123' does not exist
+fatal: repository 'abc' does not exist
+fatal: repository 'qwe' does not exist
+fatal: repository 'boilerup' does not exist
+fatal: repository 'mikii' does not exist
+fatal: repository 'trio123' does not exist
+fatal: repository 'repo10' does not exist
+127.0.0.1 - - [25/Sep/2024 13:50:03] "GET /pull_and_transfer HTTP/1.1" 200 -
+Response: 200 - [
+  {
+    "a123": "Success"
+  },
+  {
+    "team2": "Error: None"
+  },
+  {
+    "team3": "Error: None"
+  },
+  {
+    "TeamA": "Skipped due to the presence of tags"
+  },
+  {
+    "user10": "Error: None"
+  },
+  {
+    "abc": "Error: None"
+  },
+  {
+    "qwe": "Error: None"
+  },
+  {
+    "mung chiang": "Error: None"
+  },
+  {
+    "saigon": "Unexpected error: expected str, bytes or os.PathLike object, not int"
+  },
+  {
+    "miki": "Error: None"
+  },
+  {
+    "trio": "Error: None"
+  },
+  {
+    "team10": "Error: None"
+  }
+]
+
+ * Detected change in '/Users/minhvu/repoPull/app.py', reloading
+
+Cloning new repository for team3 into /Users/minhvu/repoPull/teamCode/team3...
+Error processing team3: None
+Processing TeamA:
+Repository URL: git@github.com:vuleminh2002/teamA.git
+Local Path: /Users/minhvu/repoPull/teamCode/TeamA
+Fetched tags for /Users/minhvu/repoPull/teamCode/TeamA
+Repository TeamA has tags. Skipping pull/clone operation.
+Processing user10:
+Repository URL: repo123
+Local Path: /Users/minhvu/repoPull/teamCode/user10
+Fetched tags for /Users/minhvu/repoPull/teamCode/user10
+Remote URL has changed for user10. Cleaning up and re-cloning...
+Cloning new repository for user10 into /Users/minhvu/repoPull/teamCode/user10...
+Error processing user10: None
+Processing abc:
+Repository URL: abc
+Local Path: /Users/minhvu/repoPull/teamCode/abc
+Fetched tags for /Users/minhvu/repoPull/teamCode/abc
+Remote URL has changed for abc. Cleaning up and re-cloning...
+Cloning new repository for abc into /Users/minhvu/repoPull/teamCode/abc...
+Error processing abc: None
+Processing qwe:
+Repository URL: qwe
+Local Path: /Users/minhvu/repoPull/teamCode/qwe
+Fetched tags for /Users/minhvu/repoPull/teamCode/qwe
+Remote URL has changed for qwe. Cleaning up and re-cloning...
+Cloning new repository for qwe into /Users/minhvu/repoPull/teamCode/qwe...
+Error processing qwe: None
+Processing mung chiang:
+Repository URL: boilerup
+Local Path: /Users/minhvu/repoPull/teamCode/mung chiang
+Fetched tags for /Users/minhvu/repoPull/teamCode/mung chiang
+Remote URL has changed for mung chiang. Cleaning up and re-cloning...
+Cloning new repository for mung chiang into /Users/minhvu/repoPull/teamCode/mung chiang...
+Error processing mung chiang: None
+Processing saigon:
+Repository URL: 123
+Local Path: /Users/minhvu/repoPull/teamCode/saigon
+Fetched tags for /Users/minhvu/repoPull/teamCode/saigon
+Remote URL has changed for saigon. Cleaning up and re-cloning...
+Cloning new repository for saigon into /Users/minhvu/repoPull/teamCode/saigon...
+Unexpected error: expected str, bytes or os.PathLike object, not int
+Processing miki:
+Repository URL: mikii
+Local Path: /Users/minhvu/repoPull/teamCode/miki
+Fetched tags for /Users/minhvu/repoPull/teamCode/miki
+Remote URL has changed for miki. Cleaning up and re-cloning...
+Cloning new repository for miki into /Users/minhvu/repoPull/teamCode/miki...
+Error processing miki: None
+Processing trio:
+Repository URL: trio123
+Local Path: /Users/minhvu/repoPull/teamCode/trio
+Fetched tags for /Users/minhvu/repoPull/teamCode/trio
+Remote URL has changed for trio. Cleaning up and re-cloning...
+Cloning new repository for trio into /Users/minhvu/repoPull/teamCode/trio...
+Error processing trio: None
+Processing team10:
+Repository URL: repo10
+Local Path: /Users/minhvu/repoPull/teamCode/team10
+Fetched tags for /Users/minhvu/repoPull/teamCode/team10
+Remote URL has changed for team10. Cleaning up and re-cloning...
+Cloning new repository for team10 into /Users/minhvu/repoPull/teamCode/team10...
+Error processing team10: None
+ * Restarting with stat
+  File "/Users/minhvu/repoPull/app.py", line 102
+    def fetch_tags(path):
+                         ^
+IndentationError: unindent does not match any outer indentation level
+Error: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /pull_and_transfer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1037162b0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+Error: HTTPConnectionPool(host='127.0.0.1', port=5000): Max retries exceeded with url: /pull_and_transfer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10539e2b0>: Failed to establish a new connection: [Errno 61] Connection refused'))
+Response: 200 - [
+  {
+    "a123": "Success"
+  },
+  {
+    "team2": "Error: None"
+  },
+  {
+    "team3": "Error: None"
+  },
+  {
+    "TeamA": "Skipped due to the presence of tags"
+  },
+  {
+    "user10": "Error: None"
+  },
+  {
+    "abc": "Error: None"
+  },
+  {
+    "qwe": "Error: None"
+  },
+  {
+    "mung chiang": "Error: None"
+  },
+  {
+    "saigon": "Unexpected error: expected str, bytes or os.PathLike object, not int"
+  },
+  {
+    "miki": "Error: None"
+  },
+  {
+    "trio": "Error: None"
+  },
+  {
+    "team10": "Error: None"
+  }
+]
+
+Response: 200 - [
+  {
+    "a123": "Success"
+  },
+  {
+    "team2": "Error: None"
+  },
+  {
+    "team3": "Error: None"
+  },
+  {
+    "TeamA": "Skipped due to the presence of tags"
+  },
+  {
+    "user10": "Error: None"
+  },
+  {
+    "abc": "Error: None"
+  },
+  {
+    "qwe": "Error: None"
+  },
+  {
+    "mung chiang": "Error: None"
+  },
+  {
+    "saigon": "Unexpected error: expected str, bytes or os.PathLike object, not int"
+  },
+  {
+    "miki": "Error: None"
+  },
+  {
+    "trio": "Error: None"
+  },
+  {
+    "team10": "Error: None"
+  }
+]
+
+Response: 200 - [
+  {
+    "a123": "Success"
+  },
+  {
+    "team2": "Error: None"
+  },
+  {
+    "team3": "Error: None"
+  },
+  {
+    "TeamA": "Success"
+  },
+  {
+    "user10": "Error: None"
+  },
+  {
+    "abc": "Error: None"
+  },
+  {
+    "qwe": "Error: None"
+  },
+  {
+    "mung chiang": "Error: None"
+  },
+  {
+    "saigon": "Unexpected error: expected str, bytes or os.PathLike object, not int"
+  },
+  {
+    "miki": "Error: None"
+  },
+  {
+    "trio": "Error: None"
+  },
+  {
+    "team10": "Error: None"
+  }
+]
+
